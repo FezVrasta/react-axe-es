@@ -1,6 +1,6 @@
 {
   "name": "react-axe-es",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "react-axe, with improved support for ES modules imports",
   "main": "index.js",
   "author": "Federico Zivolo <federico.zivolo@gmail.com>",
