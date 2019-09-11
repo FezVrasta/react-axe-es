@@ -41,3 +41,5 @@ to allow any `react-axe@3.x` version, this means you don't need to wait for a ne
 
 We tried to get this functionality baked it into the core library, but the maintainers
 refused to merge our [pull request](https://github.com/dequelabs/react-axe/pull/115#event-2624893905).
+
+For a list of not suitable approaches supported by `react-axe`, please refer to [the wiki](https://github.com/FezVrasta/react-axe-es/wiki/Not-suitable-approaches).
